@@ -1,0 +1,151 @@
+Order ID,Date,Region,Sales,Profit,Customer Age,Customer Gender,Product Category
+001,2023-01-01,Central,500,150,30,Male,Electronics
+002,2023-01-02,Northern,250,70,45,Female,Groceries
+003,2023-01-05,Central,300,100,32,Female,Clothing
+004,2023-01-07,Southern,700,200,27,Male,Electronics
+005,2023-01-10,Northern,400,120,41,Female,Home Goods
+006,2023-01-12,Central,650,180,36,Male,Furniture
+007,2023-01-14,Southern,200,50,29,Female,Clothing
+008,2023-01-18,Northern,900,300,48,Male,Electronics
+009,2023-01-21,Central,320,90,33,Female,Home Goods
+010,2023-01-24,Southern,450,130,40,Male,Furniture
+011,2023-01-27,Northern,1000,350,50,Female,Electronics
+012,2023-01-29,Central,180,40,25,Male,Groceries
+013,2023-02-02,Southern,360,110,38,Female,Clothing
+014,2023-02-05,Central,520,160,29,Male,Home Goods
+015,2023-02-09,Northern,230,60,42,Female,Groceries
+016,2023-02-12,Southern,410,130,35,Female,Furniture
+017,2023-02-14,Central,780,240,37,Male,Electronics
+018,2023-02-17,Northern,290,80,31,Female,Clothing
+019,2023-02-20,Southern,620,190,46,Male,Electronics
+020,2023-02-23,Central,310,100,34,Female,Home Goods
+021,2023-02-25,Northern,430,150,28,Male,Furniture
+022,2023-02-28,Southern,210,40,23,Female,Clothing
+023,2023-03-02,Central,590,200,39,Male,Electronics
+024,2023-03-04,Northern,270,70,44,Female,Home Goods
+025,2023-03-06,Southern,340,90,33,Female,Groceries
+026,2023-03-09,Central,710,210,36,Male,Electronics
+027,2023-03-12,Northern,390,110,30,Female,Clothing
+028,2023-03-15,Southern,480,140,27,Male,Furniture
+029,2023-03-17,Central,310,70,35,Female,Groceries
+030,2023-03-20,Northern,550,160,43,Male,Electronics
+031,2023-03-23,Southern,220,50,26,Female,Clothing
+032,2023-03-25,Central,640,180,31,Male,Furniture
+033,2023-03-28,Northern,460,130,37,Female,Home Goods
+034,2023-03-30,Southern,880,270,45,Male,Electronics
+035,2023-04-02,Central,230,60,28,Female,Groceries
+036,2023-04-05,Northern,310,100,39,Male,Clothing
+037,2023-04-08,Southern,540,160,33,Female,Furniture
+038,2023-04-10,Central,700,210,42,Male,Home Goods
+039,2023-04-12,Northern,390,120,30,Female,Electronics
+040,2023-04-15,Southern,260,80,25,Male,Groceries
+041,2023-04-18,Central,320,90,36,Female,Clothing
+042,2023-04-20,Northern,600,200,41,Male,Furniture
+043,2023-04-23,Southern,410,130,29,Female,Home Goods
+044,2023-04-26,Central,550,170,38,Male,Electronics
+045,2023-04-29,Northern,240,50,26,Female,Groceries
+046,2023-05-01,Southern,350,90,34,Male,Clothing
+047,2023-05-03,Central,480,140,31,Female,Home Goods
+048,2023-05-06,Northern,830,260,49,Male,Furniture
+049,2023-05-09,Southern,690,200,37,Female,Electronics
+050,2023-05-11,Central,270,70,28,Male,Groceries
+051,2023-05-14,Northern,560,180,40,Female,Clothing
+052,2023-05-16,Southern,320,80,24,Male,Furniture
+053,2023-05-18,Central,610,190,35,Female,Electronics
+054,2023-05-20,Northern,470,140,33,Male,Home Goods
+055,2023-05-23,Southern,260,70,22,Female,Groceries
+056,2023-05-25,Central,540,150,29,Male,Clothing
+057,2023-05-28,Northern,620,210,44,Female,Furniture
+058,2023-05-30,Southern,300,90,30,Male,Home Goods
+059,2023-06-01,Central,680,220,39,Female,Electronics
+060,2023-06-03,Northern,330,80,31,Male,Groceries
+061,2023-06-05,Southern,440,130,36,Female,Clothing
+062,2023-06-07,Central,710,230,42,Male,Furniture
+063,2023-06-09,Northern,510,160,27,Female,Home Goods
+064,2023-06-11,Southern,380,100,34,Male,Electronics
+065,2023-06-13,Central,590,180,38,Female,Groceries
+066,2023-06-15,Northern,300,70,25,Male,Clothing
+067,2023-06-17,Southern,420,140,41,Female,Furniture
+068,2023-06-19,Central,470,150,32,Male,Home Goods
+069,2023-06-21,Northern,720,250,45,Female,Electronics
+070,2023-06-23,Southern,310,80,28,Male,Groceries
+071,2023-06-25,Central,650,200,35,Female,Clothing
+072,2023-06-27,Northern,430,130,40,Male,Furniture
+073,2023-06-29,Southern,520,170,29,Female,Home Goods
+074,2023-06-30,Central,560,190,37,Male,Electronics
+075,2023-01-03,Northern,220,60,26,Female,Clothing
+076,2023-01-06,Southern,600,180,44,Male,Furniture
+077,2023-01-09,Central,310,90,30,Female,Home Goods
+078,2023-01-13,Northern,800,270,50,Male,Electronics
+079,2023-01-16,Southern,250,60,25,Female,Groceries
+080,2023-01-20,Central,430,130,36,Male,Clothing
+081,2023-01-23,Northern,670,210,42,Female,Furniture
+082,2023-01-26,Southern,390,110,32,Male,Home Goods
+083,2023-01-30,Central,770,240,39,Female,Electronics
+084,2023-02-03,Northern,340,100,31,Male,Groceries
+085,2023-02-06,Southern,480,140,35,Female,Clothing
+086,2023-02-10,Central,520,170,41,Male,Furniture
+087,2023-02-13,Northern,450,120,27,Female,Home Goods
+088,2023-02-16,Southern,610,190,33,Male,Electronics
+089,2023-02-19,Central,230,50,24,Female,Groceries
+090,2023-02-22,Northern,300,90,28,Male,Clothing
+091,2023-02-24,Southern,680,220,38,Female,Furniture
+092,2023-02-27,Central,360,100,34,Male,Home Goods
+093,2023-03-01,Northern,490,150,43,Female,Electronics
+094,2023-03-03,Southern,270,60,29,Male,Groceries
+095,2023-03-07,Central,580,190,40,Female,Clothing
+096,2023-03-10,Northern,740,250,45,Male,Furniture
+097,2023-03-13,Southern,310,80,31,Female,Home Goods
+098,2023-03-16,Central,660,200,37,Male,Electronics
+099,2023-03-19,Northern,240,70,26,Female,Groceries
+100,2023-03-22,Southern,530,160,35,Male,Clothing
+101,2023-04-01,Central,640,190,36,Male,Furniture
+102,2023-04-04,Northern,510,150,30,Female,Home Goods
+103,2023-04-07,Southern,450,140,28,Male,Electronics
+104,2023-04-10,Central,390,110,34,Female,Groceries
+105,2023-04-13,Northern,580,180,40,Male,Clothing
+106,2023-04-16,Southern,320,90,25,Female,Furniture
+107,2023-04-19,Central,700,230,37,Male,Home Goods
+108,2023-04-22,Northern,360,100,32,Female,Electronics
+109,2023-04-25,Southern,510,150,39,Male,Groceries
+110,2023-04-28,Central,620,200,43,Female,Clothing
+111,2023-05-01,Northern,410,130,27,Male,Furniture
+112,2023-05-04,Southern,330,80,29,Female,Home Goods
+113,2023-05-07,Central,750,240,45,Male,Electronics
+114,2023-05-10,Northern,290,70,24,Female,Groceries
+115,2023-05-13,Southern,570,160,35,Male,Clothing
+116,2023-05-16,Central,470,150,31,Female,Furniture
+117,2023-05-19,Northern,680,210,41,Male,Home Goods
+118,2023-05-22,Southern,390,120,33,Female,Electronics
+119,2023-05-25,Central,300,80,26,Male,Groceries
+120,2023-05-28,Northern,440,140,38,Female,Clothing
+121,2023-06-01,Southern,620,190,36,Male,Furniture
+122,2023-06-04,Central,570,180,30,Female,Home Goods
+123,2023-06-07,Northern,490,150,29,Male,Electronics
+124,2023-06-10,Southern,310,100,25,Female,Groceries
+125,2023-06-13,Central,530,160,35,Male,Clothing
+126,2023-06-16,Northern,700,220,42,Female,Furniture
+127,2023-06-19,Southern,280,70,27,Male,Home Goods
+128,2023-06-22,Central,640,200,39,Female,Electronics
+129,2023-06-25,Northern,360,90,28,Male,Groceries
+130,2023-06-28,Southern,490,150,34,Female,Clothing
+131,2023-07-01,Central,580,180,32,Male,Furniture
+132,2023-07-04,Northern,600,210,37,Female,Home Goods
+133,2023-07-07,Southern,320,100,26,Male,Electronics
+134,2023-07-10,Central,710,240,44,Female,Groceries
+135,2023-07-13,Northern,350,80,29,Male,Clothing
+136,2023-07-16,Southern,540,160,33,Female,Furniture
+137,2023-07-19,Central,670,220,41,Male,Home Goods
+138,2023-07-22,Northern,430,130,30,Female,Electronics
+139,2023-07-25,Southern,390,110,27,Male,Groceries
+140,2023-07-28,Central,610,190,36,Female,Clothing
+141,2023-08-01,Northern,560,170,34,Male,Furniture
+142,2023-08-04,Southern,470,150,31,Female,Home Goods
+143,2023-08-07,Central,330,90,25,Male,Electronics
+144,2023-08-10,Northern,490,160,38,Female,Groceries
+145,2023-08-13,Southern,530,180,40,Male,Clothing
+146,2023-08-16,Central,420,120,28,Female,Furniture
+147,2023-08-19,Northern,780,260,45,Male,Home Goods
+148,2023-08-22,Southern,310,100,26,Female,Electronics
+149,2023-08-25,Central,650,210,37,Male,Groceries
+150,2023-08-28,Northern,360,100,31,Female,Clothing
