@@ -1,0 +1,44 @@
+/* Default styles (light) */
+body {
+    background-color: white;
+    color: black;
+}
+
+/* Light Theme Header */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Dark Mode Overrides */
+body.dark-mode {
+    background-color: #0E1117;
+    color: #FFFFFF;
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode h3 {
+    color: #E0E0E0;
+}
+
+/* Footer styling */
+footer {
+    margin-top: 50px;
+    padding-top: 20px;
+    font-size: 0.9em;
+    text-align: center;
+    color: #888;
+}
+
+/* Table tweaks */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Custom toggle styling (if you want to add a UI toggle) */
